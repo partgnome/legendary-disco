@@ -5,3 +5,5 @@ A [Bulma](https://bulma.io/) approximation of my custom responsive CSS demo (als
 - Vanilla Javascript that handles toggling the collapsible navbar
 - Custom stylesheet for the gradient used in the hero and changing the body background color
 - Everything else is Bulma
+
+Images sourced from [Unsplash](https://unsplash.com/)
